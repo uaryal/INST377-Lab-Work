@@ -12,7 +12,6 @@ body {
   background-color: rgb(21, 95, 207);
 }
 
-/* Page Layout */
 .columns {
   display: flex;
   flex-wrap: wrap;
